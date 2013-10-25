@@ -20,3 +20,17 @@ https://github.com/ropnom/ShoppingData
  mmodificaciondel tutorial de shopping CDs
 
 *Los comandos usados en la base de datos esta en BD.sql
+
+
+
+-- Que entendido del eneunciado
+
+El progrma debe mostrar todas las Boxex existente y permitirte eliminar las boxes de las BBDD (Entregar elpaquete)
+
+El programa debe permitir Introducir Nuevas Boxex
+
+El programa debe Permitir Buscar una Boxex en un Almacen y decir si esta o no esta
+
+El programa debe realizar un historial de lso cambios realizados.
+** El ultimo punto no esta implementado por cuestionde tiempo pero entiendo que todas las funcionalidades que predias "como conceptos" estan implementadas.
+
